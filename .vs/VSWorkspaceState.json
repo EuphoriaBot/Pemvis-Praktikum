@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\POSTTEST_VIS",
+    "\\POSTTEST_VIS\\POSTTEST_1"
   ],
+  "SelectedNode": "\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb",
   "PreviewInSolutionExplorer": false
 }
