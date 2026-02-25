@@ -28,11 +28,13 @@ Partial Class Form1
         Button1 = New Button()
         Button2 = New Button()
         TextBox2 = New TextBox()
+        Label3 = New Label()
         SuspendLayout()
         ' 
         ' Label1
         ' 
         Label1.AutoSize = True
+        Label1.Cursor = Cursors.Hand
         Label1.Location = New Point(141, 127)
         Label1.Name = "Label1"
         Label1.Size = New Size(105, 25)
@@ -42,6 +44,7 @@ Partial Class Form1
         ' Label2
         ' 
         Label2.AutoSize = True
+        Label2.Cursor = Cursors.Hand
         Label2.Location = New Point(141, 222)
         Label2.Name = "Label2"
         Label2.Size = New Size(107, 25)
@@ -57,6 +60,7 @@ Partial Class Form1
         ' 
         ' Button1
         ' 
+        Button1.Cursor = Cursors.Hand
         Button1.Location = New Point(370, 164)
         Button1.Name = "Button1"
         Button1.Size = New Size(112, 34)
@@ -66,6 +70,7 @@ Partial Class Form1
         ' 
         ' Button2
         ' 
+        Button2.Cursor = Cursors.Hand
         Button2.Location = New Point(252, 164)
         Button2.Name = "Button2"
         Button2.Size = New Size(112, 34)
@@ -77,14 +82,24 @@ Partial Class Form1
         ' 
         TextBox2.Location = New Point(252, 222)
         TextBox2.Name = "TextBox2"
+        TextBox2.ReadOnly = True
         TextBox2.Size = New Size(230, 31)
         TextBox2.TabIndex = 5
+        ' 
+        ' Label3
+        ' 
+        Label3.AutoSize = True
+        Label3.Location = New Point(337, 265)
+        Label3.Name = "Label3"
+        Label3.Size = New Size(0, 25)
+        Label3.TabIndex = 6
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(Label3)
         Controls.Add(TextBox2)
         Controls.Add(Button2)
         Controls.Add(Button1)
@@ -103,5 +118,6 @@ Partial Class Form1
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
     Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents Label3 As Label
 
 End Class
