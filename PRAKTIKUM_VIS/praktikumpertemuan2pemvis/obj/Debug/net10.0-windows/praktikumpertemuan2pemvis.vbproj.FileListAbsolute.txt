@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\bin\Debug\net10.0-windows\praktikumpertemuan2pemvis.exe
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\bin\Debug\net10.0-windows\praktikumpertemuan2pemvis.deps.json
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\bin\Debug\net10.0-windows\praktikumpertemuan2pemvis.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\bin\Debug\net10.0-windows\praktikumpertemuan2pemvis.dll
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\bin\Debug\net10.0-windows\praktikumpertemuan2pemvis.pdb
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.Form1.resources
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.sourcelink.json
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.dll
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\refint\praktikumpertemuan2pemvis.dll
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.pdb
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\praktikumpertemuan2pemvis.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Pemvis Praktikum\praktikumpertemuan2pemvis\obj\Debug\net10.0-windows\ref\praktikumpertemuan2pemvis.dll
