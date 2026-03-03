@@ -14,7 +14,7 @@ Module Module1
         End If
     End Sub
 
-    Public Sub hapusBuku(index As Integer)
+    Public Sub hapusBuku(ByVal index As Integer)
         If index >= 0 And index < jumlahBuku Then
             For i As Integer = index To jumlahBuku - 2
                 daftarBuku(i, 0) = daftarBuku(i + 1, 0)
