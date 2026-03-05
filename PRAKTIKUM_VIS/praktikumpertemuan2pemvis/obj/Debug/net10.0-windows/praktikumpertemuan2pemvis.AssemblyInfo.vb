@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("praktikumpertemuan2pemvis"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+354bc6e8a880a98c4c3f03a4c2f13fb38a67a9f4"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+439b5590b63f3f5de95bc3a423b37a6ef9110362"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("praktikumpertemuan2pemvis"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("praktikumpertemuan2pemvis"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

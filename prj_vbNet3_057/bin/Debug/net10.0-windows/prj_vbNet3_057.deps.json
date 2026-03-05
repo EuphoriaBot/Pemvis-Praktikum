@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "prj_vbNet3_057/1.0.0": {
+        "runtime": {
+          "prj_vbNet3_057.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prj_vbNet3_057/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

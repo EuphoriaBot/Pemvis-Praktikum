@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj",
         "projectName": "praktikumpertemuan2pemvis",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan2pemvis\\praktikumpertemuan2pemvis.vbproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\praktikumpertemuan2pemvis\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan2pemvis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
