@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\",
+  "WorkspaceRootPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikum3\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikumpertemuan3pemvis\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikum3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikumpertemuan3pemvis\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikum3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikumpertemuan3pemvis\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikum3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikumpertemuan3pemvis\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikum3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikumpertemuan3pemvis\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikum3\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DC588357-86CA-4E4F-8684-E91473EA6D44}|praktikum3.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|d:\\praktikum\\pemvis praktikum\\praktikum_vis\\praktikumpertemuan3pemvis\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581D066-68E9-396A-8F90-FB18A8272EA9}|praktikum3.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,63 +42,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValidationModule.vb",
-              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\ValidationModule.vb",
-              "RelativeDocumentMoniker": "ValidationModule.vb",
-              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\ValidationModule.vb",
-              "RelativeToolTip": "ValidationModule.vb",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-09T03:39:09.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.vb",
-              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form2.vb",
-              "RelativeDocumentMoniker": "Form2.vb",
-              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form2.vb",
-              "RelativeToolTip": "Form2.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-09T03:41:02.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.vb [Design]",
-              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form2.vb",
+              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form2.vb",
               "RelativeDocumentMoniker": "Form2.vb",
-              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form2.vb [Design]",
-              "RelativeToolTip": "Form2.vb [Design]",
+              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form2.vb [Design]*",
+              "RelativeToolTip": "Form2.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-09T03:23:49.52Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "ValidationModule.vb",
+              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\ValidationModule.vb",
+              "RelativeDocumentMoniker": "ValidationModule.vb",
+              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\ValidationModule.vb",
+              "RelativeToolTip": "ValidationModule.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:39:09.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form1.vb",
+              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form1.vb [Design]*",
-              "RelativeToolTip": "Form1.vb [Design]*",
+              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-09T02:49:27.268Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form2.vb*",
+              "RelativeToolTip": "Form2.vb*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:41:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form1.vb",
+              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\Form1.vb*",
-              "RelativeToolTip": "Form1.vb*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDgAAAALAAAAAAAAAA==",
+              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-09T03:04:08.744Z",
               "EditorCaption": ""
@@ -107,11 +107,11 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DataModule.vb",
-              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\DataModule.vb",
+              "DocumentMoniker": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\DataModule.vb",
               "RelativeDocumentMoniker": "DataModule.vb",
-              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\DataModule.vb",
+              "ToolTip": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\DataModule.vb",
               "RelativeToolTip": "DataModule.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-09T03:38:31.366Z",
               "EditorCaption": ""

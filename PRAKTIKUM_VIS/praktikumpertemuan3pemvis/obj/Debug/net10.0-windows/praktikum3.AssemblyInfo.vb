@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("praktikum3"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+109984c64c660c0c4239a95434142a5965edbccb"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6761eab6f6985a846a59f29328179eba380bb42a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("praktikum3"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("praktikum3"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

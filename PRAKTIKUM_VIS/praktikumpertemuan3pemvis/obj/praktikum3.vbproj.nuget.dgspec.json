@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\praktikum3.vbproj": {}
+    "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\praktikum3.vbproj": {}
   },
   "projects": {
-    "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\praktikum3.vbproj": {
+    "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\praktikum3.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\praktikum3.vbproj",
+        "projectUniqueName": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\praktikum3.vbproj",
         "projectName": "praktikum3",
-        "projectPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\praktikum3.vbproj",
+        "projectPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\praktikum3.vbproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum3\\obj\\",
+        "outputPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikumpertemuan3pemvis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
