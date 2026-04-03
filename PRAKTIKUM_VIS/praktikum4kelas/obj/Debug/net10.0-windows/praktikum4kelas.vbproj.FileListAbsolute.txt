@@ -1,0 +1,17 @@
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\bin\Debug\net10.0-windows\praktikum4kelas.exe
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\bin\Debug\net10.0-windows\praktikum4kelas.deps.json
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\bin\Debug\net10.0-windows\praktikum4kelas.runtimeconfig.json
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\bin\Debug\net10.0-windows\praktikum4kelas.dll
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\bin\Debug\net10.0-windows\praktikum4kelas.pdb
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.Form1.resources
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.vbproj.GenerateResource.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.AssemblyInfoInputs.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.AssemblyInfo.vb
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.vbproj.CoreCompileInputs.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.sourcelink.json
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.dll
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\refint\praktikum4kelas.dll
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.pdb
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\praktikum4kelas.genruntimeconfig.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\praktikum4kelas\obj\Debug\net10.0-windows\ref\praktikum4kelas.dll

@@ -44,6 +44,10 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Microsoft.Common.CurrentVersion.targets",
@@ -51,8 +55,7 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAA0VAAAAAAAAAAD4vxIVAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-03-11T14:49:10.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T14:49:10.349Z"
             },
             {
               "$type": "Document",
@@ -66,10 +69,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-11T14:21:11.469Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -118,8 +117,7 @@
               "RelativeToolTip": "Form2.vb",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-11T04:26:43.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T04:26:43.635Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,9 @@
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.FormUtamaAkatsukiCoy.resources
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Resources.resources
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.GenerateResource.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfoInputs.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfo.vb
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.CoreCompileInputs.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.sourcelink.json
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Form1.resources
