@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Praktikum\\Pemvis Praktikum\\POSTTEST_VIS\\praktikum4kelas\\praktikum4kelas.vbproj": {}
+    "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum4kelas\\praktikum4kelas.vbproj": {}
   },
   "projects": {
-    "D:\\Praktikum\\Pemvis Praktikum\\POSTTEST_VIS\\praktikum4kelas\\praktikum4kelas.vbproj": {
+    "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum4kelas\\praktikum4kelas.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Praktikum\\Pemvis Praktikum\\POSTTEST_VIS\\praktikum4kelas\\praktikum4kelas.vbproj",
+        "projectUniqueName": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum4kelas\\praktikum4kelas.vbproj",
         "projectName": "praktikum4kelas",
-        "projectPath": "D:\\Praktikum\\Pemvis Praktikum\\POSTTEST_VIS\\praktikum4kelas\\praktikum4kelas.vbproj",
+        "projectPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum4kelas\\praktikum4kelas.vbproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Praktikum\\Pemvis Praktikum\\POSTTEST_VIS\\praktikum4kelas\\obj\\",
+        "outputPath": "D:\\Praktikum\\Pemvis Praktikum\\PRAKTIKUM_VIS\\praktikum4kelas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

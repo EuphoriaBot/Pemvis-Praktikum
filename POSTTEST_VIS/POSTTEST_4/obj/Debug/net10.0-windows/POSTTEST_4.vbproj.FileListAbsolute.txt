@@ -6,4 +6,14 @@ D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\
 D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfo.vb
 D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.CoreCompileInputs.cache
 D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.sourcelink.json
-D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Form1.resources
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.FormKartu.resources
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.exe
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.deps.json
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.runtimeconfig.json
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.dll
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.pdb
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.dll
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\refint\POSTTEST_4.dll
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.pdb
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.genruntimeconfig.cache
+D:\Praktikum\Pemvis Praktikum\POSTTEST_VIS\POSTTEST_4\obj\Debug\net10.0-windows\ref\POSTTEST_4.dll

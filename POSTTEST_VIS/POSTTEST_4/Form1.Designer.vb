@@ -22,6 +22,7 @@ Partial Class FormUtamaAkatsukiCoy
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormUtamaAkatsukiCoy))
         PanelHeader = New Panel()
         PanelLineHeader = New Panel()
@@ -72,18 +73,18 @@ Partial Class FormUtamaAkatsukiCoy
         TabPage3 = New TabPage()
         btnReset = New Button()
         btnCetak = New Button()
-        GroupBox1 = New GroupBox()
-        CheckBox8 = New CheckBox()
-        CheckBox7 = New CheckBox()
-        CheckBox6 = New CheckBox()
-        CheckBox5 = New CheckBox()
-        CheckBox4 = New CheckBox()
-        CheckBox3 = New CheckBox()
-        CheckBox2 = New CheckBox()
-        CheckBox1 = New CheckBox()
+        grpHobi = New GroupBox()
+        cbE = New CheckBox()
+        cbMA = New CheckBox()
+        cbMI = New CheckBox()
+        cbD = New CheckBox()
+        cbR = New CheckBox()
+        cbA = New CheckBox()
+        cbPC = New CheckBox()
+        cbPS = New CheckBox()
         grpPeran = New GroupBox()
-        dbDI = New RadioButton()
-        rbDkeungan = New RadioButton()
+        rbDI = New RadioButton()
+        rbDkeuangan = New RadioButton()
         rbDkerajinan = New RadioButton()
         rbDkreatif = New RadioButton()
         rbDL = New RadioButton()
@@ -95,6 +96,7 @@ Partial Class FormUtamaAkatsukiCoy
         picProfile = New PictureBox()
         PanelKonten = New Panel()
         Panel4 = New Panel()
+        ErrorProvider1 = New ErrorProvider(components)
         PanelHeader.SuspendLayout()
         CType(PicSidebarLogo, ComponentModel.ISupportInitialize).BeginInit()
         PanelSidebar.SuspendLayout()
@@ -105,10 +107,11 @@ Partial Class FormUtamaAkatsukiCoy
         gbJenisKelamin.SuspendLayout()
         TabPage2.SuspendLayout()
         TabPage3.SuspendLayout()
-        GroupBox1.SuspendLayout()
+        grpHobi.SuspendLayout()
         grpPeran.SuspendLayout()
         CType(picProfile, ComponentModel.ISupportInitialize).BeginInit()
         PanelKonten.SuspendLayout()
+        CType(ErrorProvider1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' PanelHeader
@@ -576,7 +579,7 @@ Partial Class FormUtamaAkatsukiCoy
         TabPage3.BackColor = Color.FromArgb(CByte(35), CByte(35), CByte(35))
         TabPage3.Controls.Add(btnReset)
         TabPage3.Controls.Add(btnCetak)
-        TabPage3.Controls.Add(GroupBox1)
+        TabPage3.Controls.Add(grpHobi)
         TabPage3.Controls.Add(grpPeran)
         TabPage3.Controls.Add(btnBrowse)
         TabPage3.Controls.Add(Label14)
@@ -610,108 +613,108 @@ Partial Class FormUtamaAkatsukiCoy
         btnCetak.Text = "Cetak"
         btnCetak.UseVisualStyleBackColor = False
         ' 
-        ' GroupBox1
+        ' grpHobi
         ' 
-        GroupBox1.Controls.Add(CheckBox8)
-        GroupBox1.Controls.Add(CheckBox7)
-        GroupBox1.Controls.Add(CheckBox6)
-        GroupBox1.Controls.Add(CheckBox5)
-        GroupBox1.Controls.Add(CheckBox4)
-        GroupBox1.Controls.Add(CheckBox3)
-        GroupBox1.Controls.Add(CheckBox2)
-        GroupBox1.Controls.Add(CheckBox1)
-        GroupBox1.ForeColor = Color.Red
-        GroupBox1.Location = New Point(511, 23)
-        GroupBox1.Name = "GroupBox1"
-        GroupBox1.Size = New Size(281, 358)
-        GroupBox1.TabIndex = 4
-        GroupBox1.TabStop = False
-        GroupBox1.Text = "Minat Dalam Komunitas"
+        grpHobi.Controls.Add(cbE)
+        grpHobi.Controls.Add(cbMA)
+        grpHobi.Controls.Add(cbMI)
+        grpHobi.Controls.Add(cbD)
+        grpHobi.Controls.Add(cbR)
+        grpHobi.Controls.Add(cbA)
+        grpHobi.Controls.Add(cbPC)
+        grpHobi.Controls.Add(cbPS)
+        grpHobi.ForeColor = Color.Red
+        grpHobi.Location = New Point(511, 23)
+        grpHobi.Name = "grpHobi"
+        grpHobi.Size = New Size(281, 358)
+        grpHobi.TabIndex = 4
+        grpHobi.TabStop = False
+        grpHobi.Text = "Minat Dalam Komunitas"
         ' 
-        ' CheckBox8
+        ' cbE
         ' 
-        CheckBox8.AutoSize = True
-        CheckBox8.Location = New Point(6, 312)
-        CheckBox8.Name = "CheckBox8"
-        CheckBox8.Size = New Size(133, 32)
-        CheckBox8.TabIndex = 7
-        CheckBox8.Text = "Eksplorasi"
-        CheckBox8.UseVisualStyleBackColor = True
+        cbE.AutoSize = True
+        cbE.Location = New Point(6, 312)
+        cbE.Name = "cbE"
+        cbE.Size = New Size(133, 32)
+        cbE.TabIndex = 7
+        cbE.Text = "Eksplorasi"
+        cbE.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox7
+        ' cbMA
         ' 
-        CheckBox7.AutoSize = True
-        CheckBox7.Location = New Point(6, 274)
-        CheckBox7.Name = "CheckBox7"
-        CheckBox7.Size = New Size(149, 32)
-        CheckBox7.TabIndex = 6
-        CheckBox7.Text = "Manajemen"
-        CheckBox7.UseVisualStyleBackColor = True
+        cbMA.AutoSize = True
+        cbMA.Location = New Point(6, 274)
+        cbMA.Name = "cbMA"
+        cbMA.Size = New Size(149, 32)
+        cbMA.TabIndex = 6
+        cbMA.Text = "Manajemen"
+        cbMA.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox6
+        ' cbMI
         ' 
-        CheckBox6.AutoSize = True
-        CheckBox6.Location = New Point(6, 236)
-        CheckBox6.Name = "CheckBox6"
-        CheckBox6.Size = New Size(120, 32)
-        CheckBox6.TabIndex = 5
-        CheckBox6.Text = "Miniatur"
-        CheckBox6.UseVisualStyleBackColor = True
+        cbMI.AutoSize = True
+        cbMI.Location = New Point(6, 236)
+        cbMI.Name = "cbMI"
+        cbMI.Size = New Size(120, 32)
+        cbMI.TabIndex = 5
+        cbMI.Text = "Miniatur"
+        cbMI.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox5
+        ' cbD
         ' 
-        CheckBox5.AutoSize = True
-        CheckBox5.Location = New Point(6, 197)
-        CheckBox5.Name = "CheckBox5"
-        CheckBox5.Size = New Size(102, 32)
-        CheckBox5.TabIndex = 4
-        CheckBox5.Text = "Desain"
-        CheckBox5.UseVisualStyleBackColor = True
+        cbD.AutoSize = True
+        cbD.Location = New Point(6, 197)
+        cbD.Name = "cbD"
+        cbD.Size = New Size(102, 32)
+        cbD.TabIndex = 4
+        cbD.Text = "Desain"
+        cbD.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox4
+        ' cbR
         ' 
-        CheckBox4.AutoSize = True
-        CheckBox4.Location = New Point(6, 157)
-        CheckBox4.Name = "CheckBox4"
-        CheckBox4.Size = New Size(109, 32)
-        CheckBox4.TabIndex = 3
-        CheckBox4.Text = "Renang"
-        CheckBox4.UseVisualStyleBackColor = True
+        cbR.AutoSize = True
+        cbR.Location = New Point(6, 157)
+        cbR.Name = "cbR"
+        cbR.Size = New Size(109, 32)
+        cbR.TabIndex = 3
+        cbR.Text = "Renang"
+        cbR.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox3
+        ' cbA
         ' 
-        CheckBox3.AutoSize = True
-        CheckBox3.Location = New Point(6, 119)
-        CheckBox3.Name = "CheckBox3"
-        CheckBox3.Size = New Size(111, 32)
-        CheckBox3.TabIndex = 2
-        CheckBox3.Text = "Analisis"
-        CheckBox3.UseVisualStyleBackColor = True
+        cbA.AutoSize = True
+        cbA.Location = New Point(6, 119)
+        cbA.Name = "cbA"
+        cbA.Size = New Size(111, 32)
+        cbA.TabIndex = 2
+        cbA.Text = "Analisis"
+        cbA.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox2
+        ' cbPC
         ' 
-        CheckBox2.AutoSize = True
-        CheckBox2.Location = New Point(6, 77)
-        CheckBox2.Name = "CheckBox2"
-        CheckBox2.Size = New Size(145, 32)
-        CheckBox2.TabIndex = 1
-        CheckBox2.Text = "Paper Craft"
-        CheckBox2.UseVisualStyleBackColor = True
+        cbPC.AutoSize = True
+        cbPC.Location = New Point(6, 77)
+        cbPC.Name = "cbPC"
+        cbPC.Size = New Size(145, 32)
+        cbPC.TabIndex = 1
+        cbPC.Text = "Paper Craft"
+        cbPC.UseVisualStyleBackColor = True
         ' 
-        ' CheckBox1
+        ' cbPS
         ' 
-        CheckBox1.AutoSize = True
-        CheckBox1.Location = New Point(6, 34)
-        CheckBox1.Name = "CheckBox1"
-        CheckBox1.Size = New Size(188, 32)
-        CheckBox1.TabIndex = 0
-        CheckBox1.Text = "Public Speaking"
-        CheckBox1.UseVisualStyleBackColor = True
+        cbPS.AutoSize = True
+        cbPS.Location = New Point(6, 34)
+        cbPS.Name = "cbPS"
+        cbPS.Size = New Size(188, 32)
+        cbPS.TabIndex = 0
+        cbPS.Text = "Public Speaking"
+        cbPS.UseVisualStyleBackColor = True
         ' 
         ' grpPeran
         ' 
-        grpPeran.Controls.Add(dbDI)
-        grpPeran.Controls.Add(rbDkeungan)
+        grpPeran.Controls.Add(rbDI)
+        grpPeran.Controls.Add(rbDkeuangan)
         grpPeran.Controls.Add(rbDkerajinan)
         grpPeran.Controls.Add(rbDkreatif)
         grpPeran.Controls.Add(rbDL)
@@ -726,27 +729,27 @@ Partial Class FormUtamaAkatsukiCoy
         grpPeran.TabStop = False
         grpPeran.Text = "Peran Dalam Komunitas"
         ' 
-        ' dbDI
+        ' rbDI
         ' 
-        dbDI.AutoSize = True
-        dbDI.Location = New Point(6, 311)
-        dbDI.Name = "dbDI"
-        dbDI.Size = New Size(186, 32)
-        dbDI.TabIndex = 7
-        dbDI.TabStop = True
-        dbDI.Text = "Divisi Informasi"
-        dbDI.UseVisualStyleBackColor = True
+        rbDI.AutoSize = True
+        rbDI.Location = New Point(6, 311)
+        rbDI.Name = "rbDI"
+        rbDI.Size = New Size(186, 32)
+        rbDI.TabIndex = 7
+        rbDI.TabStop = True
+        rbDI.Text = "Divisi Informasi"
+        rbDI.UseVisualStyleBackColor = True
         ' 
-        ' rbDkeungan
+        ' rbDkeuangan
         ' 
-        rbDkeungan.AutoSize = True
-        rbDkeungan.Location = New Point(6, 273)
-        rbDkeungan.Name = "rbDkeungan"
-        rbDkeungan.Size = New Size(190, 32)
-        rbDkeungan.TabIndex = 6
-        rbDkeungan.TabStop = True
-        rbDkeungan.Text = "Divisi Keuangan"
-        rbDkeungan.UseVisualStyleBackColor = True
+        rbDkeuangan.AutoSize = True
+        rbDkeuangan.Location = New Point(6, 273)
+        rbDkeuangan.Name = "rbDkeuangan"
+        rbDkeuangan.Size = New Size(190, 32)
+        rbDkeuangan.TabIndex = 6
+        rbDkeuangan.TabStop = True
+        rbDkeuangan.Text = "Divisi Keuangan"
+        rbDkeuangan.UseVisualStyleBackColor = True
         ' 
         ' rbDkerajinan
         ' 
@@ -864,6 +867,10 @@ Partial Class FormUtamaAkatsukiCoy
         Panel4.Size = New Size(1200, 4)
         Panel4.TabIndex = 3
         ' 
+        ' ErrorProvider1
+        ' 
+        ErrorProvider1.ContainerControl = Me
+        ' 
         ' FormUtamaAkatsukiCoy
         ' 
         AutoScaleDimensions = New SizeF(10.0F, 25.0F)
@@ -901,13 +908,14 @@ Partial Class FormUtamaAkatsukiCoy
         TabPage2.PerformLayout()
         TabPage3.ResumeLayout(False)
         TabPage3.PerformLayout()
-        GroupBox1.ResumeLayout(False)
-        GroupBox1.PerformLayout()
+        grpHobi.ResumeLayout(False)
+        grpHobi.PerformLayout()
         grpPeran.ResumeLayout(False)
         grpPeran.PerformLayout()
         CType(picProfile, ComponentModel.ISupportInitialize).EndInit()
         PanelKonten.ResumeLayout(False)
         PanelKonten.PerformLayout()
+        CType(ErrorProvider1, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -961,11 +969,11 @@ Partial Class FormUtamaAkatsukiCoy
 
     End Sub
 
-    Private Sub CheckBox3_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox3.CheckedChanged, CheckBox3.CheckedChanged
+    Private Sub CheckBox3_CheckedChanged(sender As Object, e As EventArgs) Handles cbA.CheckedChanged, cbA.CheckedChanged
 
     End Sub
 
-    Private Sub CheckBox4_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox4.CheckedChanged, CheckBox4.CheckedChanged
+    Private Sub CheckBox4_CheckedChanged(sender As Object, e As EventArgs) Handles cbR.CheckedChanged, cbR.CheckedChanged
 
     End Sub
     Friend WithEvents OpenFileDialog1 As OpenFileDialog
@@ -994,18 +1002,18 @@ Partial Class FormUtamaAkatsukiCoy
     Friend WithEvents TabPage3 As TabPage
     Friend WithEvents btnReset As Button
     Friend WithEvents btnCetak As Button
-    Friend WithEvents GroupBox1 As GroupBox
-    Friend WithEvents CheckBox8 As CheckBox
-    Friend WithEvents CheckBox7 As CheckBox
-    Friend WithEvents CheckBox6 As CheckBox
-    Friend WithEvents CheckBox5 As CheckBox
-    Friend WithEvents CheckBox4 As CheckBox
-    Friend WithEvents CheckBox3 As CheckBox
-    Friend WithEvents CheckBox2 As CheckBox
-    Friend WithEvents CheckBox1 As CheckBox
+    Friend WithEvents grpHobi As GroupBox
+    Friend WithEvents cbE As CheckBox
+    Friend WithEvents cbMA As CheckBox
+    Friend WithEvents cbMI As CheckBox
+    Friend WithEvents cbD As CheckBox
+    Friend WithEvents cbR As CheckBox
+    Friend WithEvents cbA As CheckBox
+    Friend WithEvents cbPC As CheckBox
+    Friend WithEvents cbPS As CheckBox
     Friend WithEvents grpPeran As GroupBox
-    Friend WithEvents dbDI As RadioButton
-    Friend WithEvents rbDkeungan As RadioButton
+    Friend WithEvents rbDI As RadioButton
+    Friend WithEvents rbDkeuangan As RadioButton
     Friend WithEvents rbDkerajinan As RadioButton
     Friend WithEvents rbDkreatif As RadioButton
     Friend WithEvents rbDL As RadioButton
@@ -1031,4 +1039,6 @@ Partial Class FormUtamaAkatsukiCoy
     Private Sub FormUtamaAkatsukiCoy_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
+
+    Friend WithEvents ErrorProvider1 As ErrorProvider
 End Class
