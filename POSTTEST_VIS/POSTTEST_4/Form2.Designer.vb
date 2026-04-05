@@ -185,7 +185,7 @@ Partial Class FormKartu
         Label3.AutoSize = True
         Label3.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label3.ForeColor = Color.White
-        Label3.Location = New Point(10, 312)
+        Label3.Location = New Point(20, 312)
         Label3.Name = "Label3"
         Label3.Size = New Size(154, 25)
         Label3.TabIndex = 1
@@ -196,7 +196,7 @@ Partial Class FormKartu
         PicKartu.BorderStyle = BorderStyle.FixedSingle
         PicKartu.Location = New Point(11, 19)
         PicKartu.Name = "PicKartu"
-        PicKartu.Size = New Size(150, 266)
+        PicKartu.Size = New Size(171, 266)
         PicKartu.SizeMode = PictureBoxSizeMode.StretchImage
         PicKartu.TabIndex = 0
         PicKartu.TabStop = False

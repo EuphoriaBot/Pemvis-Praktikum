@@ -1,5 +1,4 @@
 ﻿Imports System.IO
-
 Public Class FormUtamaAkatsukiCoy
 
     Private fotoPath As String = ""
@@ -63,14 +62,14 @@ Public Class FormUtamaAkatsukiCoy
     Private Function AmbilHobi() As String
         Dim hasil As String = ""
 
-        If cbPS.Checked Then hasil &= "Strategi & Analisis, "
-        If cbPC.Checked Then hasil &= "Origami & Paper Craft, "
-        If cbA.Checked Then hasil &= "Seni Visual & Desain, "
-        If cbR.Checked Then hasil &= "Crafting / Miniatur, "
-        If cbD.Checked Then hasil &= "Renang & Ketahanan Fisik, "
-        If cbMI.Checked Then hasil &= "Manajemen Uang & Koleksi, "
-        If cbMA.Checked Then hasil &= "Observasi Alam & Eksplorasi, "
-        If cbE.Checked Then hasil &= "Kepemimpinan & Public Speaking, "
+        If cbPS.Checked Then hasil &= "Analisis, "
+        If cbPC.Checked Then hasil &= "Paper Craft, "
+        If cbA.Checked Then hasil &= "Desain,"
+        If cbR.Checked Then hasil &= "Miniatur, "
+        If cbD.Checked Then hasil &= "Renang, "
+        If cbMI.Checked Then hasil &= "Manajemen, "
+        If cbMA.Checked Then hasil &= "Eksplorasi, "
+        If cbE.Checked Then hasil &= "Public Speaking, "
 
         If hasil.EndsWith(", ") Then
             hasil = hasil.Substring(0, hasil.Length - 2)
@@ -160,7 +159,7 @@ Public Class FormUtamaAkatsukiCoy
 
         If Not valid Then
             MessageBox.Show(
-                "Inputan tidak boleh kosong.",
+                "Inputan tidak boleh kosong",
                 "Peringatan",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Warning
@@ -252,8 +251,6 @@ Public Class FormUtamaAkatsukiCoy
         End If
     End Sub
 
-    ' VALIDASI INPUT KARAKTER
-
     Private Sub txtNama_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtNama.KeyPress
         HanyaHuruf(e)
     End Sub
@@ -261,8 +258,6 @@ Public Class FormUtamaAkatsukiCoy
     Private Sub mtbTelepon_KeyPress(sender As Object, e As KeyPressEventArgs) Handles mtbTelepon.KeyPress
         HanyaAngka(e)
     End Sub
-
-    ' VALIDASI LANGSUNG
 
     Private Sub txtNama_TextChanged(sender As Object, e As EventArgs) Handles txtNama.TextChanged
         ValidasiTextBox(ErrorProvider1, txtNama, "Inputan tidak boleh kosong")
@@ -288,8 +283,6 @@ Public Class FormUtamaAkatsukiCoy
         ValidasiComboBox(ErrorProvider1, cmbKomunitas, "Inputan tidak boleh kosong")
     End Sub
 
-    ' BROWSE FOTO
-
     Private Sub btnBrowse_Click(sender As Object, e As EventArgs) Handles btnBrowse.Click
         OpenFileDialog1.Filter = "File Gambar|*.jpg;*.jpeg;*.png;*.bmp"
         OpenFileDialog1.Title = "Pilih Foto Profil"
@@ -300,8 +293,6 @@ Public Class FormUtamaAkatsukiCoy
             ErrorProvider1.SetError(picProfile, "")
         End If
     End Sub
-
-    ' TOMBOL RESET
 
     Private Sub btnReset_Click(sender As Object, e As EventArgs) Handles btnReset.Click
         Dim hasil As DialogResult
@@ -317,22 +308,16 @@ Public Class FormUtamaAkatsukiCoy
         End If
     End Sub
 
-    ' MENU INPUT DATA
-
     Private Sub MenuInput_Click(sender As Object, e As EventArgs) Handles mnInputData.Click
         TabControl1.SelectedIndex = 0
         txtNama.Focus()
     End Sub
-
-    ' MENU LIHAT KARTU
 
     Private Sub MenuLihatKartu_Click(sender As Object, e As EventArgs) Handles mnLihatKartu.Click
         If Not ValidasiForm() Then Exit Sub
 
         TampilkanKartu()
     End Sub
-
-    ' MENU SIMPAN DATA
 
     Private Sub MenuSimpanData_Click(sender As Object, e As EventArgs) Handles mnSimpanData.Click
         If Not ValidasiForm() Then Exit Sub
@@ -363,7 +348,7 @@ Public Class FormUtamaAkatsukiCoy
 
             If SimpanDataKeFile(SaveFileDialog1, isi, "data_akatsuki.txt") Then
                 MessageBox.Show(
-                    "Data berhasil disimpan.",
+                    "Data berhasil disimpan",
                     "Informasi",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information
@@ -372,22 +357,20 @@ Public Class FormUtamaAkatsukiCoy
 
         ElseIf hasil = DialogResult.No Then
             MessageBox.Show(
-                "Data tidak jadi disimpan.",
+                "Data tidak jadi disimpan",
                 "Informasi",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
             )
         Else
             MessageBox.Show(
-                "Proses dibatalkan.",
+                "Proses dibatalkan",
                 "Informasi",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Exclamation
             )
         End If
     End Sub
-
-    ' MENU BUKA DATA
 
     Private Sub MenuBukaData_Click(sender As Object, e As EventArgs) Handles mnBukaData.Click
         Dim data As Dictionary(Of String, String) = BukaDataDariFile(OpenFileDialog1)
@@ -398,14 +381,12 @@ Public Class FormUtamaAkatsukiCoy
         IsiDataKeForm(data)
 
         MessageBox.Show(
-            "Data berhasil dibuka.",
+            "Data berhasil dibuka",
             "Informasi",
             MessageBoxButtons.OK,
             MessageBoxIcon.Information
         )
     End Sub
-
-    ' MENU KELUAR
 
     Private Sub MenuKeluar_Click(sender As Object, e As EventArgs) Handles mnKeluar.Click
         Dim hasil As DialogResult
@@ -420,8 +401,6 @@ Public Class FormUtamaAkatsukiCoy
             Me.Close()
         End If
     End Sub
-
-    ' TOMBOL SIMPAN & CETAK KARTU
 
     Private Sub btnSimpanCetak_Click(sender As Object, e As EventArgs) Handles btnCetak.Click
         If Not ValidasiForm() Then Exit Sub
