@@ -52,7 +52,7 @@ Module DataModule
     Public Function GetTanamanByID(id As Integer) As DataTable
         Dim dt As New DataTable()
         Try
-            Dim query As String = "SELECT * FROM tbtanaman as T WHERE idTanaman = @id LEFT JOIN tbjenis as J on J.idJenis = T.idJenis"
+            Dim query As String = "SELECT * FROM tbtanaman as T LEFT JOIN tbjenis as J on J.idJenis = T.idJenis WHERE idTanaman = @id"
             Using conn As MySqlConnection = GetConnection()
                 Using da As New MySqlDataAdapter(query, conn)
                     da.SelectCommand.Parameters.AddWithValue("@id", id)
